@@ -1,0 +1,12 @@
+Metric,Value
+Total Orders Analyzed,96353
+Late Orders,6409
+On-Time Orders,89944
+Avg Review Score (Late),2.27
+Avg Review Score (On-Time),4.29
+Difference in Score,2.02
+T-Statistic,-132.0713
+P-Value,< 0.0001 (essentially zero)
+Significance Level,0.05 (95% confidence)
+Decision,Reject Null Hypothesis
+Business Conclusion,Late deliveries cause significantly lower review scores
